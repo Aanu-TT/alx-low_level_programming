@@ -1,4 +1,4 @@
-include < stdio.h >
+#include <stdio.h>
 /**
  * main - A program that prints the type of compiled computers
  * Return: 0 (Success)
