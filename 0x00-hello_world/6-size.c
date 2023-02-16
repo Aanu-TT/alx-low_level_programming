@@ -1,9 +1,8 @@
 include < stdio.h >
 /**
  * main - A program that prints the type of compiled computers
- * Return: 0  (Success)
+ * Return: 0 (Success)
  */
-
 int main(void)
 {
 char a;
