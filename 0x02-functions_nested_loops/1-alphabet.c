@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main - small letter alphabet
- *
- * Return: Always 0.
+ * print_alphabet - print small letter alphabet
  */
 
 void print_alphabet(void)
@@ -14,6 +12,4 @@ void print_alphabet(void)
 		_putchar(letter);
 
 	_putchar('\n');
-
-       	return (0);
 }
