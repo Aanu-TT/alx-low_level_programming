@@ -1,9 +1,10 @@
 #include "main.h"
-/**
- * main - print putchar function
- * Return: 0 (Success)
- */
 
+/**
+ * main - a program that runs the_putchar function
+ *
+ * Return:0 (Success)
+ */
 
 int main(void)
 {
@@ -16,5 +17,6 @@ int main(void)
 	_putchar("a");
 	_putchar("r");
 	_putchar("\n");
-}
+
 	return (0);
+}
